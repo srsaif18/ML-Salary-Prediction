@@ -13,7 +13,7 @@ def show_devs():
     Salary-Prediction is based on the data collected from various StackOverflow users of the year 2020.")
     
     st.latex("Certifications :")
-    st.image("data//Programming_Hero_Certificate_fundamental.jpg")
-    st.image("data//cert-17238243-1157.png")
-    st.image("data//Python for beginners - Learn all the basics of python.jpg")
-    st.image("data//Python for beginners - Learn all the basics of python - 2.jpg")
+    st.image("data//Programming_Hero_Certificate_fundamental.jpg", width = 400)
+    st.image("data//cert-17238243-1157.png", width = 400)
+    st.image("data//Python for beginners - Learn all the basics of python.jpg", width = 400)
+    st.image("data//Python for beginners - Learn all the basics of python - 2.jpg", width = 400)
