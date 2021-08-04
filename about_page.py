@@ -22,7 +22,7 @@ def show_devs():
     st.image("data//cert-17238243-1157.png", width = 800)
 
 
-print("""
+st.write("""
 Hi
 Hello
 Bye
