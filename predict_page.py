@@ -17,7 +17,9 @@ le_education = data["le_education"]
 def show_predict_page():
     st.title("** PROJECT **: Salary-Prediction")
 
-    st.title("Software Developer Salary Prediction")
+    st.write("""
+    This is a Machine Learning project bulit by using **[Streamlit](https://streamlit.io/)**. This application can predict Software Developer Salary based on data collected from **[Stackoverflow](https://stackoverflow.com/)** **[Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)**
+    """)
 
     st.write("""### We need some information to predict the salary""")
 
