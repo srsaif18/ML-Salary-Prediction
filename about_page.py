@@ -17,3 +17,5 @@ def show_devs():
     st.image("data//Python for beginners - Learn all the basics of python - 2.jpg", width = 800)
     st.image("data//Programming_Hero_Certificate_fundamental.jpg", width = 800)
     st.image("data//cert-17238243-1157.png", width = 800)
+    st.image("data//Python Complete Course For Python Beginners.png", width = 800)
+    st.image("data//Beginner's guide to Competitive programming using python.png", width = 800)
