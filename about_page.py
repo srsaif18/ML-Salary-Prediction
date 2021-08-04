@@ -12,6 +12,7 @@ def show_devs():
     st.write("### This is my first Machine Learning Project, **PROJECT : Salary-Prediction**. \
     Salary-Prediction is based on the data collected from various StackOverflow users of the year 2020.")
     
+    st.latex("Online")
     st.latex("Certifications :")
     st.image("data//Beginner's guide to Competitive programming using python.jpg", width = 800)
     st.image("data//Python Complete Course For Python Beginners.jpg", width = 800)
