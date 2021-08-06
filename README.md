@@ -1,7 +1,7 @@
 # ML-Salary-Prediction
-### Hi there 👋
+## Hi there 👋
 
-#### This is a Machine Learning Project that predicts a Software Developers Salary. 
+### This is a Machine Learning Project that predicts a Software Developers Salary. 
 
 # Dependencies
 
