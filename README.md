@@ -1,10 +1,21 @@
 # ML-Salary-Prediction
 ### Hi there 👋
 
-## This is a Machine Learning Project that predicts a Software Developers Salary. 
+#### This is a Machine Learning Project that predicts a Software Developers Salary. 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg" />][pandas]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />][matplotlib]
+## Dependencies:
+
+<br\>
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg" />][Streamlit]
+<br\>
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
+<br\>
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />][NumPy]
+<br\>
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit-learn]
+<br\>
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />][matplotlib]
+<br\>
 
 <br />
 
