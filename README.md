@@ -3,13 +3,13 @@
 
 #### This is a Machine Learning Project that predicts a Software Developers Salary. 
 
-# Dependencies:
+# Dependencies
 
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg" />][Streamlit]
+[<img align="left" width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />][Streamlit]
 
-[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
+[<img align="left" width="30px" src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg#/media/File:Pandas_mark.svg" />][pandas]
 
-[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />][NumPy]
+[<img align="left" width="30px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />][NumPy]
 
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit-learn]
 
