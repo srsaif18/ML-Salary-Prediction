@@ -5,9 +5,9 @@
 
 # Dependencies
 
-[<img align="left center" width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />][Streamlit]
+[<img align="left" width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />][Streamlit]
 
-[<img align="left" width="30px" src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg#/media/File:Pandas_mark.svg" />][pandas]
+[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />][pandas]
 
 [<img align="left" width="30px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />][NumPy]
 
