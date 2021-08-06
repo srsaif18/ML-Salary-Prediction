@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg" />][pandas]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://matplotlib.org/_static/logo2_compressed.svg" />][matplotlib]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />][matplotlib]
 
 <br />
 
