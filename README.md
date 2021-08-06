@@ -31,7 +31,7 @@
 
 Launch the web app:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/model_performance_app/main/app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/princesspride/ml-salary-prediction/app.py)
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ```
 ###  Download and unzip contents from GitHub repo
 
-Download and unzip contents from https://github.com/PrincessPride/ML-Salary-Prediction/releases/tag/salary-prediction-app
+Download and unzip contents from https://github.com/PrincessPride/ML-Salary-Prediction/archive/refs/tags/salary-prediction-app.zip
 
 ###  Launch the app
 
