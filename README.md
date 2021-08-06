@@ -5,7 +5,7 @@
 
 # Dependencies
 
-[<img align="left" width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />][Streamlit]
+[<img align="left center" width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />][Streamlit]
 
 [<img align="left" width="30px" src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg#/media/File:Pandas_mark.svg" />][pandas]
 
