@@ -5,17 +5,17 @@
 
 ## Dependencies:
 
-<br\>
+<br />
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg" />][Streamlit]
-<br\>
+<br />
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
-<br\>
+<br />
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />][NumPy]
-<br\>
+<br />
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit-learn]
-<br\>
+<br />
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />][matplotlib]
-<br\>
+<br />
 
 <br />
 
