@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+# Languages and Tools
 
 [<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 [<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />][jupyter notebook]
