@@ -27,6 +27,47 @@
 
 <br />
 
+# Demo
+
+Launch the web app:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/model_performance_app/main/app.py)
+
+# Reproducing this web app
+To recreate this web app on your own computer, do the following.
+
+### Create conda environment
+Firstly, we will create a conda environment called *performance*
+```
+conda create -n performance python=3.8.8
+```
+Secondly, we will login to the *performance* environement
+```
+conda activate performance
+```
+### Install prerequisite libraries
+
+Download requirements.txt file
+
+```
+wget https://raw.githubusercontent.com/PrincessPride/ML-Salary-Prediction/master/requirements.txt
+
+```
+
+Pip install libraries
+```
+pip install -r requirements.txt
+```
+###  Download and unzip contents from GitHub repo
+
+Download and unzip contents from https://github.com/PrincessPride/ML-Salary-Prediction/releases/tag/salary-prediction-app
+
+###  Launch the app
+
+```
+streamlit run app.py
+```
+
 [Streamlit]: https://streamlit.io/
 [pandas]: https://pandas.pydata.org/
 [NumPy]: https://numpy.org/
