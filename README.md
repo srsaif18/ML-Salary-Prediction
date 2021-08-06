@@ -5,15 +5,15 @@
 
 ## Dependencies:
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg" />][Streamlit]
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg" />][Streamlit]
 
-[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
+[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
 
-[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />][NumPy]
+[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />][NumPy]
 
-[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit-learn]
+[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit-learn]
 
-[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />][matplotlib]
+[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />][matplotlib]
 
 
 <br />
